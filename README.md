@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RodeWillem
 - 👀 I’m interested in Campervan elektra.
-- 🌱 I’m currently learning BMS techno.
 - 💞️ I’m looking to collaborate on Home Assistant and Victron environment.
 - 📫 How to reach me wjvdberge@outlook.com.
 
